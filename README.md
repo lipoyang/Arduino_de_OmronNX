@@ -13,9 +13,8 @@ Arduino系マイコンボードでオムロンのEtherCATスレーブターミ�
     - NX-OD5121: デジタル出力ユニット (16接点, NPN出力)
     - NX-ID5342: デジタル入力ユニット (16接点, NPN入力)
 
-![](diagram.png)
+![結線図](diagram.png)
 
-<!-- 
 ## 動画
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RXTnEujWb5Q/0.jpg)](https://www.youtube.com/watch?v=RXTnEujWb5Q)
--->
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fgk8F0t40R8/0.jpg)](https://www.youtube.com/watch?v=fgk8F0t40R8)
+
